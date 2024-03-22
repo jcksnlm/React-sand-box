@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "name": "Projeto de Infra",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1000,
+      "services": [
+        {
+          "name": "gideao",
+          "cost": "1000",
+          "description": "huahuauha",
+          "id": "4e4b93b4-c3c7-40e9-9d34-0e9f6dfb5ff1"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Desenvolvimento do novo site",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 12,
+      "services": [
+        {
+          "name": "asdad",
+          "cost": "12",
+          "description": "asdas",
+          "id": "396ed556-8b79-4175-b8c7-5a643945d505"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
